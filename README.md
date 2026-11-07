@@ -32,6 +32,10 @@ Landing, Dashboard, Smart Import Studio, Extraction Review, Product Library, Ass
 
 See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for the data model and backend APIs.
 
+## Use with Luo
+
+This project is a Luo workspace spec, not a standalone code app. To recreate it, open [LUO_TEMPLATE.md](LUO_TEMPLATE.md), paste the prompt into a new Luo workspace chat and review the proposed spec before building. Full reference: `docs/spec/`.
+
 ## Status
 
-This repository contains documentation only. The application itself runs in a Luo workspace.
+This repository contains the Luo template and documentation. The application itself runs in a Luo workspace.
