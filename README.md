@@ -4,6 +4,15 @@ AI-powered retail marketing operations. PromoBaker turns business documents (PDF
 
 Built on the Luo platform as a standalone app: no external integrations are required.
 
+## Quick start
+
+1. Create a Luo workspace and open the assistant chat.
+2. Paste the prompt from [LUO_TEMPLATE.md](LUO_TEMPLATE.md) and review the proposed spec.
+3. Approve the build.
+4. Create a brand kit (PNG/JPG logo) and a template, then verify the template.
+5. Import your own price list, or use [sample-data/products.csv](sample-data/products.csv) in Smart Import Studio. The sample prices and units are invented placeholders, not real data.
+6. Build a campaign, generate posters, approve and export.
+
 ## Workflow
 
 1. **Smart Import Studio** - upload a price list. Deterministic parsing runs first; AI helps with ambiguous headers and PDF/image content.
