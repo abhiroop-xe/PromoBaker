@@ -1,0 +1,13 @@
+sku,name,brand,unit,category,regular_price,promotional_price,currency
+PB-001,Red-Beet,Sample Brand,kg,Red-beet,2.49,1.99,EUR
+PB-002,Avocado,Sample Brand,each,Avocado,1.29,0.99,EUR
+PB-003,Banana,Sample Brand,kg,Banana,1.79,1.49,EUR
+PB-004,Red-Delicious,Sample Brand,kg,Apple,2.99,2.49,EUR
+PB-005,Beef-Tomato,Sample Brand,kg,Tomato,3.49,2.99,EUR
+PB-006,Golden-Delicious,Sample Brand,kg,Apple,2.89,2.39,EUR
+PB-007,Regular-Tomato,Sample Brand,kg,Tomato,2.79,2.29,EUR
+PB-008,Granny-Smith,Sample Brand,kg,Apple,2.99,2.49,EUR
+PB-009,Kiwi,Sample Brand,each,Kiwi,0.69,0.55,EUR
+PB-010,Royal-Gala,Sample Brand,kg,Apple,2.99,2.49,EUR
+PB-011,Lime,Sample Brand,each,Lime,0.49,0.39,EUR
+PB-012,Pink-Lady,Sample Brand,kg,Apple,3.19,2.69,EUR
